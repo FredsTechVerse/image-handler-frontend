@@ -1,10 +1,10 @@
 import React from "react";
-import ImagesPage from "./components/images";
+import Images from "./components/Images/Images";
 
 const App = () => {
   return (
     <>
-      <ImagesPage />
+      <Images />
     </>
   );
 };
